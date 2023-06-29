@@ -3,7 +3,6 @@
 
 Front-end Developer | Computer Science student 💻👩
 
-Currently the intern of Typescript Bootcamp at :rocket: Evolution :rocket:
 
 ## My Skills:
 
