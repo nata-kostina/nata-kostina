@@ -38,9 +38,3 @@ Front-end Developer | Computer Science student 💻👩
 **Deploy:** https://nata-kostina.github.io/app-online-store/online-store/
 
 **GitHub:** https://github.com/nata-kostina/app-online-store
-
- ✨ **Landing Page “Shelter”** ✨
- 
-**Deploy:** https://nata-kostina.github.io/layout-shelter/pages/main/
-
-**GitHub:** https://github.com/nata-kostina/layout-shelter
