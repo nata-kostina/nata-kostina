@@ -28,12 +28,6 @@ Front-end Developer | Computer Science student 💻👩
 
 **GitHub:** [https://github.com/nata-kostina/chat-window](https://github.com/nata-kostina/chat-window)
 
- ✨ **Blackjack** ✨
- 
-**Deploy:** [https://ts-bootcamp-blackjack-client.netlify.app/](https://ts-bootcamp-blackjack-client.netlify.app/)
-
-**GitHub:** [https://github.com/nata-kostina/evolution-ts-bootcamp-blackjack](https://github.com/nata-kostina/evolution-ts-bootcamp-blackjack)
-
  ✨ **E-learning platform "RS Lang"** ✨
  
 **Deploy:** [https://my-rslang.netlify.app/](https://my-rslang.netlify.app/)
