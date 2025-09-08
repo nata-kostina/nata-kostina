@@ -1,11 +1,29 @@
 
 **Hi, I'm Natallia** 👋
 
-Front-end Developer | Computer Science student 💻👩
-
+AI, Computer Science student | Software Developer💻👩
 
 ## My Skills:
 
+### Machine Learning / AI
+<!-- - Deep Learning (PyTorch, TensorFlow, Keras) -->
+- Data Science & Analytics (NumPy, Pandas, Scikit-learn, Matplotlib)
+- Computer Vision (Ultralytics)
+- Natural Language Processing (SpeechBrain)
+
+### Backend Development
+- Node.js (Express.js)
+- RESTful API
+- Databases: MySQL, MongoDB
+
+### Frontend Development
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js
+- HTML5, CSS3, TailwindCSS
+  
+<!--
+## My Skills:
+ - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  - ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,3 +57,4 @@ Front-end Developer | Computer Science student 💻👩
 **Deploy:** https://nata-kostina.github.io/app-online-store/online-store/
 
 **GitHub:** https://github.com/nata-kostina/app-online-store
+-->
