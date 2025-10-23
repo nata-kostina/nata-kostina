@@ -1,25 +1,35 @@
+# Hi, I'm Natallia 👋
 
-**Hi, I'm Natallia** 👋
+Master’s student in Applied Artificial Intelligence & Computer Science | ML Specialist | Software Developer 💻
 
-AI, Computer Science student | Software Developer💻👩
+Grenoble, France | [Email](mailto:natakostina123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [GitHub](https://github.com/nata-kostina) | [+33 7 53 81 75 87](tel:+33753817587)
 
-## My Skills:
+---
+
+## 💡 About Me
+Hands-on experience in **machine learning, computer vision, and full-stack development**. Skilled in processing and analyzing large datasets, evaluating ML models, and implementing production-ready solutions using **Python** and **JavaScript**.
+
+---
+
+## 🛠 Skills
 
 ### Machine Learning / AI
-<!-- - Deep Learning (PyTorch, TensorFlow, Keras) -->
-- Data Science & Analytics (NumPy, Pandas, Scikit-learn, Matplotlib)
-- Computer Vision (Ultralytics)
-- Natural Language Processing (SpeechBrain)
+- Data Science & Analytics: NumPy, Pandas, scikit-learn, Matplotlib  
+- Deep Learning: PyTorch  
+- Computer Vision: Ultralytics (YOLO, RT-DETR)  
+- Natural Language Processing: SpeechBrain
 
 ### Backend Development
-- Node.js (Express.js)
-- RESTful API
-- Databases: MySQL, MongoDB
+- Node.js (Express.js), RESTful APIs  
+- Databases: MySQL, MongoDB  
 
 ### Frontend Development
-- JavaScript (ES6+), TypeScript
-- React.js, Next.js
-- HTML5, CSS3, TailwindCSS
+- JavaScript (ES6+), TypeScript  
+- React.js, Next.js, Redux, MobX  
+- HTML5, CSS3, TailwindCSS, Sass  
+
+### Other Tools
+- Git, Jupyter Notebook, Docker basics
   
 <!--
 ## My Skills:
