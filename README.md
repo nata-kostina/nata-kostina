@@ -2,7 +2,7 @@
 
 Master’s student in Applied Artificial Intelligence & Computer Science | ML Specialist | Software Developer 💻
 
-Grenoble, France | [Email](mailto:natakostina123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [GitHub](https://github.com/nata-kostina) | [+33 7 53 81 75 87](tel:+33753817587)
+Grenoble, France | [Email](mailto:natakostina123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nata-kostsina/) | [GitHub](https://github.com/nata-kostina) | [+33 7 53 81 75 87](tel:+33753817587)
 
 ---
 
