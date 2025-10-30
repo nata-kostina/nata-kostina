@@ -7,7 +7,7 @@ Grenoble, France | [Email](mailto:natakostina123@gmail.com) | [LinkedIn](https:/
 ---
 
 ## 💡 About Me
-Hands-on experience in **machine learning, computer vision, and full-stack development**. Skilled in processing and analyzing large datasets, evaluating ML models, and implementing production-ready solutions using **Python** and **JavaScript**.
+Hands-on experience in **machine learning, deep learning, and full-stack development**. Skilled in processing and analyzing large datasets, evaluating ML models, and implementing production-ready solutions using **Python** and **JavaScript**.
 
 ---
 
