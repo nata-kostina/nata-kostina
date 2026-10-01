@@ -1,36 +1,54 @@
 # Hi, I'm Natallia 👋
 
-Master’s student in Applied Artificial Intelligence & Computer Science | ML Specialist | Software Developer 💻
+🎓 AI&ML Engineer | Software Developer | Python, JavaScript
 
-Grenoble, France | [Email](mailto:natakostina123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nata-kostsina/) | [GitHub](https://github.com/nata-kostina) | [+33 7 53 81 75 87](tel:+33753817587)
+Aix-en-Provence, France | [Portfolio](https://natallia-kostsina-portfolio.vercel.app) | [Email](mailto:natakostina123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nata-kostsina/) | [GitHub](https://github.com/nata-kostina) | [+33 7 53 81 75 87](tel:+33753817587)
 
 ---
 
 ## 💡 About Me
-Hands-on experience in **machine learning, deep learning, and full-stack development**. Skilled in processing and analyzing large datasets, evaluating ML models, and implementing production-ready solutions using **Python** and **JavaScript**.
+AI/ML & Full-Stack Engineer with hands-on experience in **machine learning**, **deep learning**, and **full-stack development**. 
+Experienced in processing and analyzing large datasets, evaluating ML models, and implementing scalable, production-ready solutions using **Python, JavaScript, React**.
 
 ---
 
 ## 🛠 Skills
 
-### Machine Learning / AI
-- Data Science & Analytics: NumPy, Pandas, scikit-learn, Matplotlib  
-- Deep Learning: PyTorch  
-- Computer Vision: Ultralytics (YOLO, RT-DETR)  
-- Natural Language Processing: SpeechBrain
+### Languages
+- Python
+- JavaScript
+- TypeScript
 
+### Machine Learning / AI
+- scikit-learn  
+- LLM, Natural Language Processing, Prompt Engineering, RAG
+- MLflow
+
+### Data
+- NumPy
+- Pandas
+- SQL
+- PostgreSQL
+- pgvector
+- Data Analysis
+- Alembic
+  
 ### Backend Development
-- Node.js (Express.js), RESTful APIs  
-- Databases: MySQL, MongoDB  
+- FastAPI
+- Node.js (Express.js)
 
 ### Frontend Development
 - JavaScript (ES6+), TypeScript  
 - React.js, Next.js, Redux, MobX  
 - HTML5, CSS3, TailwindCSS, Sass  
 
-### Other Tools
-- Git, Jupyter Notebook, Docker basics
-  
+### Software Engineering
+- Git
+- Docker
+- REST API
+- OOP
+- Algorithms & Data Structures
+
 <!--
 ## My Skills:
  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
